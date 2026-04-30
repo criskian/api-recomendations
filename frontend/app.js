@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://api-recomendations-859041089829.us-central1.run.app";
 
 const form = document.querySelector("#search-form");
 const userInput = document.querySelector("#user-id");
